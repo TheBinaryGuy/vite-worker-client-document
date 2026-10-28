@@ -1,0 +1,21 @@
+.gitignore
+  s_566b8e0c4467a4::t_878f4cfe9ce09c 2
+package-lock.json
+  s_566b8e0c4467a4::t_0211b4559c64b0 1-826
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b660375077e10b9969ec61ed3f1131dfe6b38972",
+  "prompts": {},
+  "sessions": {
+    "s_566b8e0c4467a4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6dac3959-035d-4ca2-88ce-5a4e2c0efc5a",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "TheBinaryGuy <hello@thebinary.dev>"
+    }
+  }
+}
