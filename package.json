@@ -1,0 +1,7 @@
+{
+  "name": "vite-worker-client-document",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "vite" },
+  "devDependencies": { "vite": "8.3.5" }
+}
